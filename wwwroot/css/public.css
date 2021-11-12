@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image:url(../pic/wedding.jpg) ;
+    background-size: cover;
+    position: relative;
+}
+
+.background{
+    background:rgba(255, 255, 255, 0.4);
+    max-width: 100%;
+   /* position: relative; */
+} 
+
+a{
+    text-decoration: none;
+}
+div{
+    font-size: 24px;
+}
+
+h2{
+    background-color:#a5bfb6;
+    color: aliceblue;
+    text-align: center;
+}
+h4{
+    text-align: center;
+    margin-top: 1%;
+}
+button{
+    text-align: center;
+}
+.dd{
+    text-align: center;
+    margin-top: 1%;
+}
+.dd1{
+    text-align: center;
+    margin-top: 1%;
+    padding-left: 30px;
+}
+
+input{
+    width: 200px;
+    height: 30px;
+}
+
+.dd1 button{
+    width: 20%;
+    font-size: 24px;
+}
+h5{
+    margin-top: 2%;
+    text-align: center;
+}
+h6{
+    margin-top: 2%;
+    text-align: center;
+}
+.pic {
+    max-width: 100%;
+    text-align: center;
+    transform: scale(0.6);
+}
+hr{
+    margin-top: 5%;
+}
+.dd1 img {
+    margin-top: 2%;
+    padding-left: 0px;
+    max-width: 91%;
+}
+
